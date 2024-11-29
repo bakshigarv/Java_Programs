@@ -21,3 +21,15 @@ class Method {
         person2.speak();
         }
     }
+
+// class Method {
+
+//     static void speak(String name, int age) {
+//         System.out.println("My name is " + name + " and I am " + age + " Years old.");
+//     }
+
+//     public static void main(String[] args) {
+
+//         speak("Nitish Tayal", 22);
+//     }
+// }

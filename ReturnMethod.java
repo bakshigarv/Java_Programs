@@ -15,3 +15,13 @@ class ReturnMethod{
         System.out.println(years);
     }
 }
+
+// class ReturnMethod {
+//     static int calculateYearsToRetirement(int x) {
+//         return 65 -x;
+//     }
+
+//     public static void main (String[]args) {
+//         System.out.println(calculateYearsToRetirement(22));
+//     }
+// }
